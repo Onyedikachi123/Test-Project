@@ -1,0 +1,47 @@
+.user-details img{
+    height: 35px;
+    width: 35px;
+}
+
+.user-details {
+    display: flex;
+    position: absolute;
+    right: 7%;
+    top: 2.5%;
+}
+
+.input-wrapper {
+    display: flex;
+    margin-top: 1.5%;
+}
+
+.inner-input input{
+    border: none;
+    background: transparent;
+    margin-bottom: 15px;
+}
+
+.inner-input input:focus {
+    border: 1px solid #ccc;
+}
+
+.admin-details h6, p {
+   font-size: 11px;
+}
+
+.admin-details {
+    margin-left: 10px;
+}
+
+.admin-details h6 {
+    margin-top: 7px;
+}
+
+.admin-details p {
+    margin-top: -10px;
+}
+
+.inner-input .icon {
+    margin: 0 15px;
+}
+

@@ -1,0 +1,109 @@
+.dashboard-wrapper {
+    display: flex;
+}
+
+.main-content {
+    background-color: #e6eff4;
+    height: 100vh;
+    padding: 30px;
+    
+}
+.dashboard-nav {
+    display: flex;
+    width: 100%;
+    padding: 15px 0;
+}
+.dashboard-main {
+    width: 100%;
+}
+
+.main-content h5 {
+    color: #171725;
+
+}
+
+.main-content .layer-icon {
+    color: #00CE2D;
+    margin-bottom: 68px;
+}
+
+.main-content .company-icon{
+    color: #FFB200;
+    margin-bottom: 68px;
+}
+
+.main-content .cart-icon {
+    color: #FF3A29;
+    margin-bottom: 68px;
+}
+.main-content .layer2-icon {
+    color: #9B51E0;
+    margin-bottom: 68px;
+}
+
+.main-content .layer-section small {
+    font-size: 12px;
+    color: #92929D;
+}
+
+.main-content .first-card, .second-card {
+    height: 157px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.main-content .numberLine{
+    display: flex;
+}
+
+.main-content .numberLine h4 {
+    color: #FF3A29;
+}
+
+.main-content .first-cardText h6{
+    margin-bottom: 33px;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+.main-content .thirdCard-details small {
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+.main-content .third-card {
+    padding: 20px;
+    width: 204px;
+}
+
+.main-content .thirdCard-details .line2 {
+    margin-top: 13px;
+}
+
+.main-content .third-card .user2 {
+    margin: 20px 0;
+}
+
+.main-content .thirdCard-details span {
+    color: #FF3A29;
+}
+
+.main-content .last-card {
+    height: 342px !important;
+}
+
+.main-content .exchange-card {
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.main-content .exchange-card small{
+    font-size: 10px;
+    color: #ccc;
+}
+
+
+
+
+
+
